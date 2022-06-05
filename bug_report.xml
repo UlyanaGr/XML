@@ -1,5 +1,11 @@
- <?xml version="1.0"?>
- <bug.report>
- <button.height>40px instead of 52px</button.height>
- <button.width>190px instead of 182px</button.width>
- </bug.report>
+<?xml version="1.0"?>
+<bug_report>
+    <bug_report_title> The user photo in not displayed in the table Notes </bug_report_title>
+    <steps_to_reproduce step_1="Log in to the organization" step_2="Go to Account > Profile" step_3="Upload a Photo" step_4="Go to the Notes page" step_5="Add a Note" /> 
+    <expected_result> If a user has uploaded a photo to his account, his user icon should be displayed with that photo </expected_result>
+    <actual_result> The user icon is displayed with the initials but without the photo </actual_result>
+      </bug_report>
+
+
+
+
