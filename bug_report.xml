@@ -1,1 +1,5 @@
-
+ <?xml version="1.0"?>
+ <bug.report>
+ <button.height>40px instead of 52px</button.height>
+ <button.width>190px instead of 182px</button.width>
+ </bug.report>
